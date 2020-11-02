@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TWSearchClient</string>
+    <string name="post_error">Error retrieving data</string>
+</resources>

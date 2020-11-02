@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#045DA5</color>
+    <color name="colorAccent">#045DA5</color>
+    <color name="shimmer_grey">#dddddd</color>
+    <color name="transperant_color">#00000000</color>
+    <color name="material_grey">#F1F1F1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#9A9A9A</color>
+    <color name="shimmer_color">#dddddd</color>
+
+    <color name="transparent_color1">#99000000</color>
+
+
+</resources>
